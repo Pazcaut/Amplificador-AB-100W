@@ -11,3 +11,5 @@ Medir interferencia y la protección contra cortocircuitos.
 
 Todas las mediciones se realizaron sobre una carga de 8 ohms y luego se le conectó una señal de audio por celular y un parlante para corroborar el funcionamiento.
 Se adjunta esquemático en KiCad y comparación de cálculos teóricos con las mediciones en laboratorio. 
+Fotografia de la placa terminada:
+<img width="1872" height="900" alt="image" src="https://github.com/user-attachments/assets/6d4dd0d6-58e2-463c-9902-d836cb633a94" />
