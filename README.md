@@ -4,12 +4,11 @@ Amplificador de potencia de audio en Clase AB de 100W sobre 8Ω
 Diseño, testeo y análisis de un amplificador de audio AB.
 
 Objetivos:
-
 Analizar su funcionamiento y comparar la teoría con la realidad. 
 Evaluar la calidad y la potencia de la señal de salida. 
 Medir interferencia y la protección contra cortocircuitos. 
 
 Todas las mediciones se realizaron sobre una carga de 8 ohms y luego se le conectó una señal de audio por celular y un parlante para corroborar el funcionamiento.
-Se adjunta esquemático en KiCad y comparación de cálculos teóricos con las mediciones en laboratorio. 
+Se adjunta esquemático en KiCad y la comparación de cálculos teóricos con las mediciones en laboratorio, con sus respectivas capturas de pantalla del osciloscopio.
 Fotografia de la placa terminada:
 <img width="1872" height="900" alt="image" src="https://github.com/user-attachments/assets/6d4dd0d6-58e2-463c-9902-d836cb633a94" />
